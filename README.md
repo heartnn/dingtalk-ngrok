@@ -22,7 +22,7 @@ ngrok.exe [SUBDOMAIN] [PORT] [HOST]
 
 ```
 chmod +x ngrok
-ngrok [SUBDOMAIN] [PORT] [HOST]
+./ngrok [SUBDOMAIN] [PORT] [HOST]
 ```
 
 ### Notes
